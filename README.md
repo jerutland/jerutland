@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan Rutland
-- 👀 I’m interested in Java, SpringBoot, Vue.js
+- 👀 I’m interested in creating business solutions on a fullstack team
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me https://www.linkedin.com/in/jordan-rutland5/
