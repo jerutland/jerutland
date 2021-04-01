@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan Rutland
-- 👀 I’m interested in new ideas 
+- 👀 I’m interested in Kubernetes and Amazon Lambda
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me https://www.linkedin.com/in/jordan-rutland5/
